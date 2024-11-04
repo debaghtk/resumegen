@@ -1,0 +1,37 @@
+{
+    "personal_info": {
+        "name": "Your Name",
+        "email": "your.email@example.com",
+        "phone": "123-456-7890",
+        "location": "City, State"
+    },
+    "work_experience": [
+        {
+            "company": "Company Name",
+            "title": "Your Title",
+            "duration": "2020-2023",
+            "achievements": [
+                "Achievement 1",
+                "Achievement 2",
+                "Achievement 3"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "category": "Technical Skills",
+            "items": ["Skill 1", "Skill 2", "Skill 3"]
+        },
+        {
+            "category": "Soft Skills",
+            "items": ["Skill 1", "Skill 2", "Skill 3"]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Your Degree",
+            "institution": "University Name",
+            "year": "2019"
+        }
+    ]
+} 
